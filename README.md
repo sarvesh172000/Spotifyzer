@@ -263,10 +263,6 @@ We welcome contributions! Fork this repo, create a branch, commit your changes, 
 * **Shibin Biji Thomas** (018318261)
 * **Vrushabh Pravinbhai Bodarya** (018284162)
 
-## License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
 ## Acknowledgements
 
 * **Spotify for Developers**
